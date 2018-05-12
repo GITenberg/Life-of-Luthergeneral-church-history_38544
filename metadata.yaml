@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '39523'
     url: http://www.gutenberg.org/2009/agents/39523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38544#Life-of-Luthergeneral-church-history
 gutenberg_issued: '2012-01-10'
 gutenberg_type: Text
 identifiers:
