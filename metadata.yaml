@@ -1,0 +1,42 @@
+_repo: Life-of-Luthergeneral-church-history_38544
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Sommer, Martin Samuel
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '43788'
+    url: http://www.gutenberg.org/2009/agents/43788
+  - agent_name: Herzberger, F. W. (Frederik William)
+    alias: Herzberger, Frederik William
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '44533'
+    url: http://www.gutenberg.org/2009/agents/44533
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Just, Gustav A.
+    alias: Just, Gustav
+    birthdate: 1847
+    deathdate: 1924
+    gutenberg_agent_id: '39523'
+    url: http://www.gutenberg.org/2009/agents/39523
+description: ''
+gutenberg_issued: '2012-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38544'
+  lccn: 03014837
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Luther, Martin, 1483-1546'
+- !lcc 'BR'
+title: "Life of Luther\r\nwith several introductory and concluding chapters from general\
+  \ church history"
+url: http://www.gutenberg.org/ebooks/38544
